@@ -1,0 +1,15 @@
+C:\Projetos\AutomatizacaoContratos\bin\Debug\net7.0\AutomatizacaoContratos.exe
+C:\Projetos\AutomatizacaoContratos\bin\Debug\net7.0\AutomatizacaoContratos.deps.json
+C:\Projetos\AutomatizacaoContratos\bin\Debug\net7.0\AutomatizacaoContratos.runtimeconfig.json
+C:\Projetos\AutomatizacaoContratos\bin\Debug\net7.0\AutomatizacaoContratos.dll
+C:\Projetos\AutomatizacaoContratos\bin\Debug\net7.0\AutomatizacaoContratos.pdb
+C:\Projetos\AutomatizacaoContratos\obj\Debug\net7.0\AutomatizacaoContratos.csproj.AssemblyReference.cache
+C:\Projetos\AutomatizacaoContratos\obj\Debug\net7.0\AutomatizacaoContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AutomatizacaoContratos\obj\Debug\net7.0\AutomatizacaoContratos.AssemblyInfoInputs.cache
+C:\Projetos\AutomatizacaoContratos\obj\Debug\net7.0\AutomatizacaoContratos.AssemblyInfo.cs
+C:\Projetos\AutomatizacaoContratos\obj\Debug\net7.0\AutomatizacaoContratos.csproj.CoreCompileInputs.cache
+C:\Projetos\AutomatizacaoContratos\obj\Debug\net7.0\AutomatizacaoContratos.dll
+C:\Projetos\AutomatizacaoContratos\obj\Debug\net7.0\refint\AutomatizacaoContratos.dll
+C:\Projetos\AutomatizacaoContratos\obj\Debug\net7.0\AutomatizacaoContratos.pdb
+C:\Projetos\AutomatizacaoContratos\obj\Debug\net7.0\AutomatizacaoContratos.genruntimeconfig.cache
+C:\Projetos\AutomatizacaoContratos\obj\Debug\net7.0\ref\AutomatizacaoContratos.dll
