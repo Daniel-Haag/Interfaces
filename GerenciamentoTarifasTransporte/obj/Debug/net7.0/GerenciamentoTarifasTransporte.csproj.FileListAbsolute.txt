@@ -1,0 +1,15 @@
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\bin\Debug\net7.0\GerenciamentoTarifasTransporte.exe
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\bin\Debug\net7.0\GerenciamentoTarifasTransporte.deps.json
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\bin\Debug\net7.0\GerenciamentoTarifasTransporte.runtimeconfig.json
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\bin\Debug\net7.0\GerenciamentoTarifasTransporte.dll
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\bin\Debug\net7.0\GerenciamentoTarifasTransporte.pdb
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\obj\Debug\net7.0\GerenciamentoTarifasTransporte.csproj.AssemblyReference.cache
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\obj\Debug\net7.0\GerenciamentoTarifasTransporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\obj\Debug\net7.0\GerenciamentoTarifasTransporte.AssemblyInfoInputs.cache
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\obj\Debug\net7.0\GerenciamentoTarifasTransporte.AssemblyInfo.cs
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\obj\Debug\net7.0\GerenciamentoTarifasTransporte.csproj.CoreCompileInputs.cache
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\obj\Debug\net7.0\GerenciamentoTarifasTransporte.dll
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\obj\Debug\net7.0\refint\GerenciamentoTarifasTransporte.dll
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\obj\Debug\net7.0\GerenciamentoTarifasTransporte.pdb
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\obj\Debug\net7.0\GerenciamentoTarifasTransporte.genruntimeconfig.cache
+C:\Projetos\Prática de Interfaces\GerenciamentoTarifasTransporte\obj\Debug\net7.0\ref\GerenciamentoTarifasTransporte.dll
